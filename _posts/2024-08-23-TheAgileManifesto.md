@@ -1,4 +1,12 @@
+---
+title: "The Agile Manifesto"
+date: 2024-08-23
+---
+
+
+
 <iframe src="https://agilemanifesto.org/iso/en/manifesto.html" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
+
 *Individuals and interactions over processes and tools 
 Working software over comprehensive documentation
 Customer collaboration over contract negotiation
