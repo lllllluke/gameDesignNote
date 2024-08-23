@@ -3,10 +3,7 @@ title: "The spiral model"
 date: 2024-08-23
 ---
 
-
-
-![image.png|400](https://997523841-1323914366.cos.ap-shanghai.myqcloud.com/20240402104018.png)
-
+![image.png](https://997523841-1323914366.cos.ap-shanghai.myqcloud.com/20240402104018.png)
 
 - a lot of complex detail
   - risk assessment, prototypes, and looping
